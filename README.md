@@ -23,7 +23,6 @@
    ```bash
    git clone https://github.com/Franciele-Santos-Silva/Bancopink.git
 
-
 2. Abra o arquivo index.html no seu navegador
 
 3. Não é necessária configuração adicional; todas as dependências são carregadas via CDN
